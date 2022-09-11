@@ -23,6 +23,8 @@ public class Main {
         GrG.compareStudents(DM);
 
         GG.compareStudents(ZS);
+        GrG.compareStudents(ZS);
+
 
     }
 }
